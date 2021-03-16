@@ -2,6 +2,9 @@ The main file is chicago-crimes.ipynb
 
 In it there is an analysis of a large dataset of crimes in Chicago from 2001 to present. 
 
+here is a link to a video walking through the project in a shared album:
+
+https://www.icloud.com/sharedalbum/#B14G4TcsmGmITZk
 
 
 
