@@ -1,0 +1,12 @@
+Rubric
+Functionality: 40/40
+Style: 30/30 
+Scope/Logic: 5/10
+Scope was not covered in class:10/10
+Presentation: 5/10 Missing captions/cutting off at the end of the video
+
+-10 for submission. It wasn’t submitted through the final project submission form, as was required
+
+Notes: Nice job, you had a lot of really great analysis. One thing that I would have liked you to have mentioned is that this data is police arrest data and not necessarily crime data. There could be crimes happening more in areas that have less policing. Taking off 5 points for that.
+
+Total: 80/100
